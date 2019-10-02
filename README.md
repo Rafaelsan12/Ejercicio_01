@@ -6,6 +6,8 @@ vamos a proceder a hacer una lista:
 1. Patata
 2. Cebolla
 3. Huevos
+
+
 Ahora una tabla
 
 tITULO 1 DE LA TABLA|TÍTULO 2 DE LA TABLA
