@@ -1,4 +1,4 @@
-# Encabezad
+# Encabezado
 ## Encabezado más pequeño
 ###  Encabezado más pequeño todavia
 Esto es un texto en **negrita** , *cursiva* 
@@ -12,7 +12,7 @@ Ahora una tabla
 
 tITULO 1 DE LA TABLA|TÍTULO 2 DE LA TABLA
 --------------------|---------------------
-eSTO SERÍA LA CELDA|Y ESTO SERÍA OTRA CELDA
+ESTO SERÍA LA CELDA|Y ESTO SERÍA OTRA CELDA
 Añado otra celd más| y esta celda de regalo
 
 
