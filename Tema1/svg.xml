@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>T&iacute;tulo</title>
+</head>
+<body>
+
+<h1>Cabecera 1 </h1>
+<svg width ="200" height = "200">
+<circle cx = "75" cy = "75" r= ="55" stroke ="red"
+<p> esto es un párrafo</p>
+
+</body>
+</html>
